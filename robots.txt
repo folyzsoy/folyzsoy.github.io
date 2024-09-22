@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://folyzsoy.github.io/sitemap/sitemap.txt
